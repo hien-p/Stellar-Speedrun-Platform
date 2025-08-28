@@ -1,4 +1,4 @@
-Stellar Speedrun Platform
+# Stellar Speedrun Platform
 
 Onboard developers to Stellar + Soroban (Rust) through hands-on challenges, auto-tests, and a gamified leaderboard.
 
